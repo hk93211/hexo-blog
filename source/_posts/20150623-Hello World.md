@@ -6,7 +6,7 @@ tags:
   - blog
 categories: hexo
 description: 
-cover: /assets/images/bg/8.jpg
+cover: /assets/images/bg/17.jpeg
 top_img: 
 ---
 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.

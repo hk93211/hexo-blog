@@ -6,7 +6,7 @@ tags:
   - vue
 categories: javascript
 description: 
-cover: /assets/images/bg/12.jpg
+cover: /assets/images/bg/12.jpeg
 top_img: 
 ---
 

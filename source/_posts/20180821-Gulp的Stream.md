@@ -5,7 +5,7 @@ tags:
   - gulp
 categories: gulp
 description: 
-cover: /assets/images/bg/2.jpg
+cover: /assets/images/bg/38.jpeg
 top_img: 
 ---
 

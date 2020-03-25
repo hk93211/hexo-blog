@@ -7,7 +7,7 @@ tags:
   - 前端工程化
 categories: vue
 description: 
-cover: /assets/images/bg/12.jpg
+cover: /assets/images/bg/8.jpeg
 top_img: 
 ---
 

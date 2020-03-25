@@ -6,7 +6,7 @@ tags:
   - javascript
 categories: node
 description: 
-cover: /assets/images/bg/2.jpg
+cover: /assets/images/bg/14.jpeg
 top_img: 
 ---
 

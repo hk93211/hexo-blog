@@ -6,7 +6,7 @@ tags:
   - 代码规范
 categories: git
 description: 
-cover: /assets/images/bg/6.jpg
+cover: /assets/images/bg/6.jpeg
 top_img: 
 ---
 

@@ -6,7 +6,7 @@ tags:
   - redux
 categories: react
 description: 
-cover: /assets/images/bg/7.jpg
+cover: /assets/images/bg/31.jpeg
 top_img: 
 ---
 

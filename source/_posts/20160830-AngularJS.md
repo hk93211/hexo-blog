@@ -5,7 +5,7 @@ tags:
   - angularjs
 categories: angularjs
 description: 
-cover: /assets/images/bg/4.jpg
+cover: /assets/images/bg/13.jpeg
 top_img: 
 ---
 

@@ -6,7 +6,7 @@ tags:
   - 前端工程化
 categories: webpack
 description: 
-cover: /assets/images/bg/6.jpg
+cover: /assets/images/bg/18.jpeg
 top_img: 
 ---
 
