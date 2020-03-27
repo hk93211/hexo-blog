@@ -182,7 +182,7 @@ auto_open_sidebar:
 
 post_copyright:
   enable: true
-  decode: false
+  decode: true
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -216,9 +216,9 @@ addtoany:
 ####   Comments System    ####
 # ------------------------------------
 disqus:
-  enable: false
-  shortname:
-  count: false # top_img顯示評論數
+  enable: true
+  shortname: AlexKhan
+  count: true # top_img顯示評論數
 
 # Disqus.js版評論系統，應對大陸長城的折中方案，兼容原版：https://github.com/SukkaW/DisqusJS
 # API 申請地址：https://disqus.com/api/applications/
@@ -281,7 +281,7 @@ utterances:
 
 #####     Footer Settings    ####
 # ------------------------------------
-since: 2020
+since: 2015
 
 footer_custom_text:
 
@@ -289,9 +289,9 @@ footer_copyright:
   enable: true
 
 ICP:
-  enable: false
-  url:
-  text:
+  enable: true
+  url: http://www.beian.miit.gov.cn
+  text: "粤ICP备19151619号-1"
   icon: /img/icp.png
 
 ####   Analysis    ####
@@ -388,7 +388,7 @@ tag_ui: # 留空或index
 background:
 
 # footer是否顯示圖片背景(與top_img一致)
-footer_bg: false
+footer_bg: true
 
 # 背景特效
 # 避免卡頓，建議只開啟一個
@@ -404,8 +404,8 @@ canvas_ribbon:
 
 # 動態彩帶
 canvas_ribbon_piao:
-  enable: false
-  mobile: false # false 手機端不顯示 true 手機端顯示
+  enable: true
+  mobile: true # false 手機端不顯示 true 手機端顯示
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
@@ -431,7 +431,7 @@ fireworks:
 
 # 點擊出現愛心
 click_heart:
-  enable: false
+  enable: true
 
 # 點擊出現文字，文字可自行修改
 ClickShowText:
@@ -448,13 +448,13 @@ display_mode: light
 
 # 美化頁面顯示
 beautify:
-  enable: false
+  enable: true
   title-prefix-icon: '\f0c1'
   title-prefix-icon-color: "#F47466"
 
 # 全局字體
 font:
-  enable: false
+  enable: true
   font-family: Lato, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, MicrMicrosoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
   code-font: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace, Helvetica Neue For Number
 
@@ -502,7 +502,7 @@ fontawesome_v5:
 aside:
   enable: true
   mobile: true # 手機頁面（ 顯示寬度 < 768px ）是否顯示aside內容
-  position: right # left or right
+  position: left # left or right
   card_author: true
   card_announcement: true
   card_recent_post: true
@@ -513,7 +513,7 @@ aside:
 
 # 網站公告
 announcement:
-  content: 感謝訪問本站，若喜歡請收藏 ^_^
+  content: 感謝訪問本站，若喜歡請收藏或者订阅 ^_^
 
 # busuanzi count for PV / UV in site
 # 訪問人數
@@ -527,7 +527,7 @@ busuanzi:
 # 也可以寫成 年/月/日 時間
 runtimeshow:
   enable: true
-  start_date: 6/7/2018 00:00:00
+  start_date: 6/23/2015 00:00:00
 
 ####   右下角按鈕  ####
 #----------------------------------------------
@@ -541,7 +541,7 @@ translate:
   #延遲時間,若不在前, 要設定延遲翻譯時間, 如100表示100ms,默認為0
   translateDelay: 0
   #博客網址
-  cookieDomain: "https://xxx/"
+  cookieDomain: "https://kw1n.cn/"
   #當文字是簡體時，按鈕顯示的文字
   msgToTraditionalChinese: "繁"
   #當文字是繁體時，按鈕顯示的文字
@@ -549,7 +549,7 @@ translate:
 
 #閲讀模式
 readmode:
-  enable: true
+  enable: false
 
 # dark mode
 darkmode:
@@ -599,7 +599,7 @@ instantpage:
 # https://github.com/vinta/pangu.js
 # 中英文之間添加空格
 pangu:
-  enable: false
+  enable: true
   field: page # page/post
 
 # Note (Bootstrap Callout)
