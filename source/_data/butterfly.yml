@@ -53,6 +53,9 @@ copy:
 # ---------------
 social:
   fa fa-github: https://github.com/hk93211
+  fa fa-weibo: https://weibo.com/superxiaohuang
+  fa fa-telegram: https://t.me/hk93211
+  fa fa-medium: https://medium.com/@hk93211
   fa fa-envelope: mailto:hk93211@gmail.com
   fa fa-rss: /atom.xml
 
